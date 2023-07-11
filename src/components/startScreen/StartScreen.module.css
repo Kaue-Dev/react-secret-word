@@ -1,0 +1,18 @@
+.StartScreen {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.StartScreen h1 {
+    font-size: 3.5em;
+    text-transform: uppercase;
+}
+
+.StartScreen p {
+    font-size: 1.3em;
+    margin: 3rem 0;
+    color: #b389ff;
+}
