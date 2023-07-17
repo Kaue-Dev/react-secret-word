@@ -1,31 +1,31 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
 }
 
 html, body {
-    height: 100%;
-    background: linear-gradient(160deg, #131313 0%, #171717);
-    color: #FFF;
+  height: 100%;
+  background: linear-gradient(160deg, #131313 0%, #171717);
+  color: #fff;
 }
 
 button {
-    background-color: #8949ff;
-    color: #FFF;
-    padding: 0px 65px;
-    border-radius: 16px;
-    border: 2px solid #ffffff;
-    height: 60px;
-    font-weight: 600;
-    font-size: 1.4em;
-    letter-spacing: 0.5px;
-    cursor: pointer;
-    transition: 0.4s;
-    text-transform: uppercase;
+  background-color: #8949ff;
+  color: #fff;
+  padding: 0px 65px;
+  border-radius: 16px;
+  border: 2px solid #ffffff;
+  height: 60px;
+  font-weight: 600;
+  font-size: 1.4em;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  transition: 0.4s;
+  text-transform: uppercase;
 }
 
 button:hover {
-    background-color: #7226ff;
+  background-color: #7226ff;
 }
