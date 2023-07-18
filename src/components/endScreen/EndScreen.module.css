@@ -1,0 +1,20 @@
+.endScreen {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.endScreen h1 {
+  margin: 32px 0;
+}
+
+.endScreen h2 span {
+  color: #b389ff;
+  font-size: 1.5em;
+}
+
+.endScreen h2 {
+  margin-bottom: 32px;
+}
